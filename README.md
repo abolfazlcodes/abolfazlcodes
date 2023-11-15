@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://abolfazlcodes.github.io/portfolio)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://iabolfazl.dev)
 <h1 align="center">Hi 👋, I'm Abolfazl Jamshidi</h1>
 <h3 align="center">A passionate frontend developer with keen eye on details</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://abolfazlcodes.github.io/portfolio/](https://abolfazlcodes.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://iabolfazl.dev](https://iabolfazl.dev)
 
 - 💬 Ask me about **React, JavaScript, NextJS**
 
