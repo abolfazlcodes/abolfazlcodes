@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazlcodes&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazlcodes" /> </p>
 
-- 🔭 I’m currently working on [my portoflio](https://abolfazlcodes.github.io/portfolio/)
+- 🔭 I’m currently working on [my portoflio](https://iabolfazl.dev)
 
 - 🌱 I’m currently learning **NextJs**
 
